@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @ramanbansal1
-- 👀 I’m interested in Machine leqrning and web development
+- 👋 Hi, I’m Ramam
+- 👀 I’m interested in Machine learning and web development
 - 🌱 I’m currently learning Deep learning
 - 💞️ I’m looking for new programmer friends
 - 📫 Visit my site [techwithpie.com](https://techwithpie.blogspot.com)
